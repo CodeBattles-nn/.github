@@ -4,6 +4,9 @@
 
 ___
 ## Ссылки
-[[Демо-версия](https://doctorixx.gitbook.io/codebattles/)
+[Демо-версия](https://doctorixx.gitbook.io/codebattles/)
+
 [Документация](https://google.com)
+
 [Сайт приложения](https://google.com)
+
