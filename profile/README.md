@@ -1,5 +1,6 @@
-# Добро пожаловать!
+# CodeBattles ✨
 
-Систему уже можно использовать для обучения, но пока что рекомендуется только в тестовом режиме
+A wonderful platform for programming competitions!\
+The platform is still being developed, but you can still try
 
-> Для просмотра документации нажмите [ТУТ](https://doctorixx.gitbook.io/codebattles/)
+> Documentation is [here](https://doctorixx.gitbook.io/codebattles/)
